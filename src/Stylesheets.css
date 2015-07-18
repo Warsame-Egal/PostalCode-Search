@@ -1,0 +1,17 @@
+@CHARSET "ISO-8859-1";
+
+.root {
+    -fx-background-color: black;
+    -fx-padding: 50;
+    -fx-font: 20px "Serif";
+    -fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 2 , 0 );  
+} 
+ 
+
+.paragraph {
+    -fx-border-width: 3px;
+    -fx-border-color: gold;
+    -fx-spacing: 10px;
+    -fx-padding: 10;
+}
+  
